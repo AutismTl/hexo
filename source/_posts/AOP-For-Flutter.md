@@ -1,6 +1,6 @@
 ---
 title: AOP For Flutter
-date: 2022-11-10
+date: 2021-11-10
 tags: Flutter
 ---
 ------------
